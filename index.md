@@ -88,7 +88,7 @@ Blockchain is an evolving technology that enables executing transactions and sma
         <li>Selfish mining,</li>
         <li>routing attacks,</li>
         <li>smart contract security,</li>
-        <li><a href="https://arxiv.org/pdf/1311.0243.pdf">Majority is not Enough:Bitcoin Mining is Vulnerable</a></li>
+        <li><a href="https://arxiv.org/pdf/1311.0243.pdf">Majority is not Enough:Bitcoin Mining is Vulnerable</a>,</li>
         </ul>
       </td>
       <td>
@@ -100,10 +100,10 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>Alternative approaches for mining</td>
       <td>
       <ul>
-        <li><a href="https://www.semanticscholar.org/paper/Ouroboros%3A-A-Provably-Secure-Proof-of-Stake-Kiayias-Russell/1c14549f7ba7d6a000d79a7d12255eb11113e6fa">Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol</a></li>
-        <li><a href="https://arxiv.org/pdf/1607.01341.pdf">Algorand</a></li>
-        <li><a href="http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf">Cryptocurrencies without Proof of Work</a></li>
-        <li><a href="https://eprint.iacr.org/2017/573.pdf">Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain</a></li>
+        <li><a href="https://www.semanticscholar.org/paper/Ouroboros%3A-A-Provably-Secure-Proof-of-Stake-Kiayias-Russell/1c14549f7ba7d6a000d79a7d12255eb11113e6fa">Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol</a>,</li>
+        <li><a href="https://arxiv.org/pdf/1607.01341.pdf">Algorand</a>,</li>
+        <li><a href="http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf">Cryptocurrencies without Proof of Work</a>,</li>
+        <li><a href="https://eprint.iacr.org/2017/573.pdf">Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain</a>,</li>
        </ul>
       </td>
       <td>
@@ -112,22 +112,41 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>10/01</td>
-      <td></td>
-      <td></td>
+      <td>Sharding</td>
+      <td>      
+        <ul>
+        <li><a href="https://www.comp.nus.edu.sg/~loiluu/papers/elastico.pdf">A Secure Sharding Protocol For Open Blockchains</a>,</li>
+        <li><a href="https://eprint.iacr.org/2017/406.pdf">OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding</a>,</li>
+        <li><a href="https://arxiv.org/pdf/1708.03778.pdf">Chainspace: A Sharded Smart Contracts Platform</a>,</li>
+       </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/08</td>
-      <td></td>
-      <td></td>
+      <td>Scalability 1</td>
+      <td>
+      <ul>
+        <li><a href="https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf">Bitcoin-NG: A Scalable Blockchain Protocol</a>,</li>
+        <li><a href="https://link.springer.com/chapter/10.1007/978-3-319-78375-8_1">Thunderella: Blockchains with Optimistic Instant Confirmation</a>,</li>
+        <li><a href="https://arxiv.org/pdf/1607.01341.pdf">Algorand</a>,</li>
+        <li><a href="https://lightning.network/lightning-network-paper.pdf">The bitcoin lightning network: Scalable off-chain instant payments</a>,</li>
+       </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/15</td>
-      <td></td>
-      <td></td>
+      <td>Scalability 2: DAGS, alternative structures</td>
+      <td>
+       <ul>
+        <li><a href="https://link.springer.com/chapter/10.1007/978-3-662-47854-7_32">Secure high-rate transaction processing in bitcoin</a>,</li>
+        <li>Phantom,</li>
+         <li>conflux,</li>
+       </ul>
+      </td>
       <td>
       </td>
       <td>
@@ -135,8 +154,13 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>10/22</td>
-      <td></td>
-      <td></td>
+      <td>Blockchain applications</td>
+      <td>
+      <ul>
+        <li><a href="http://fc14.ifca.ai/bitcoin/papers/bitcoin14_submission_10.pdf">Fair Two-Party Computations via Bitcoin Deposits</a>,</li>
+        <li><a href="https://people.csail.mit.edu/alinush/papers/catena-sp2017.pdf">Catena: Efficient Non-equivocation via Bitcoin</a>,</li>
+       </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>

@@ -166,17 +166,29 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>10/29</td>
-      <td>
-      </td>
+      <td>Smart contract applications</td>
       <td></td>
       <td>
+        <ul>
+        <li><a href="https://eprint.iacr.org/2017/1090.pdf">Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts</a>,</li>
+        <li><a href="https://eprint.iacr.org/2016/635.pdf">Sealed-Glass Proofs:Using Transparent Enclaves to Prove and Sell Knowledge</a>,</li>
+        <li><a href="https://people.csail.mit.edu/ranjit/papers/incentives.pdf">How to Use Bitcoin to Incentivize Correct Computations</a>,</li>
+        <li><a href="https://arxiv.org/pdf/1708.01171.pdf">Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing</a>,</li>
+       </ul>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>11/05</td>
-      <td></td>
-      <td></td>
+      <td>Anonymity and traceability of bitcoin. Privacy 1: Coin mixing</td>
+      <td>
+      <ul>
+        <li><a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf">A Fistful of Bitcoins: Characterizing Payments Among
+Men with No Names</a>,</li>
+        <li><a href="https://eprint.iacr.org/2014/077.pdf">Mixcoin: Anonymity for bitcoin with accountable mixes</a>,</li>
+        <li><a href="https://www.semanticscholar.org/paper/TumbleBit%3A-An-Untrusted-Bitcoin-Compatible-Payment-Heilman-Alshenibr/26ab9c27d995dadd553614045361ffb1afba9008">TumbleBit: An untrusted Bitcoin-compatible anonymous payment hub</a>,</li>
+       </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>
@@ -191,8 +203,13 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>11/19</td>
-      <td></td>
+      <td>Privacy 2: Zero-knowledge proofs and privacy preserving crypto-currencies </td>
       <td>
+        <ul>
+        <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6547123">Zerocoin: Anonymous Distributed E-Cash from Bitcoin</a>,</li>
+        <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6956581">Zerocash: Decentralized Anonymous Payments from Bitcoin</a>,</li>
+        <li><a href="https://eprint.iacr.org/2015/675.pdf">Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts</a>,</li>
+       </ul>
       </td>
       <td>
       </td>
@@ -200,8 +217,7 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>11/26</td>
-      <td>
-       </td>
+      <td>Project Presentations</td>
       <td>
       </td>
       <td>

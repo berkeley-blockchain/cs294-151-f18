@@ -47,8 +47,13 @@ Blockchain is an evolving technology that enables executing transactions and sma
   <tbody>
     <tr>
       <td>08/27</td>
-      <td></td>
-      <td></td>
+      <td>Background on blockchain and cryptocurriencies</td>
+      <td><ul>
+        <li><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin white paper</a>,</li>
+        <li><a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum white paper</a>,</li>
+        <li><a href="http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf">SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>,</li>
+          </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>

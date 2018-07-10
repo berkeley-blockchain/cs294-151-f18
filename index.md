@@ -48,7 +48,8 @@ Blockchain is an evolving technology that enables executing transactions and sma
     <tr>
       <td>08/27</td>
       <td>Background on blockchain and cryptocurriencies</td>
-      <td><ul>
+      <td>
+        <ul>
         <li><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin white paper</a>,</li>
         <li><a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum white paper</a>,</li>
         <li><a href="http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf">SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>,</li>
@@ -67,17 +68,28 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>09/10</td>
-      <td></td>
+      <td>Consensus</td>
       <td>
-         </td>
+        <ul>
+        <li><a href="https://eprint.iacr.org/2014/765.pdf">The Bitcoin Backbone Protocol: Analysis and Applications</a>,</li>
+        <li><a href="https://eprint.iacr.org/2016/454.pdf">Analysis of the Blockchain Protocol in Asynchronous Networks</a>,</li>
+        <li><a href="https://socrates1024.s3.amazonaws.com/consensus.pdf">Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin</a>,</li>
+         </ul>
+      </td>
       <td>
         </td>
       <td></td>
     </tr>
     <tr>
       <td>09/17</td>
-      <td></td>
+      <td>Attacks</td>
       <td>
+        <ul>
+        <li>Selfish mining,</li>
+        <li>routing attacks,</li>
+        <li>smart contract security,</li>
+        <li><a href="https://arxiv.org/pdf/1311.0243.pdf">Majority is not Enough:Bitcoin Mining is Vulnerable</a></li>
+        </ul>
       </td>
       <td>
       </td>
@@ -85,9 +97,15 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>09/24</td>
+      <td>Alternative approaches for mining</td>
       <td>
+      <ul>
+        <li><a href="https://www.semanticscholar.org/paper/Ouroboros%3A-A-Provably-Secure-Proof-of-Stake-Kiayias-Russell/1c14549f7ba7d6a000d79a7d12255eb11113e6fa">Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol</a></li>
+        <li><a href="https://arxiv.org/pdf/1607.01341.pdf">Algorand</a></li>
+        <li><a href="http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf">Cryptocurrencies without Proof of Work</a></li>
+        <li><a href="https://eprint.iacr.org/2017/573.pdf">Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain</a></li>
+       </ul>
       </td>
-      <td></td>
       <td>
       </td> 
       <td></td>

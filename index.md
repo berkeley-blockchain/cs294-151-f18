@@ -1,6 +1,6 @@
 ## Instructors
 
-<table width="400" style="font-size: 88%;">
+<table width="100" style="font-size: 88%;">
   <thead>
     <tr>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>

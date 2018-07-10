@@ -167,7 +167,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
     <tr>
       <td>10/29</td>
       <td>Smart contract applications</td>
-      <td></td>
       <td>
         <ul>
         <li><a href="https://eprint.iacr.org/2017/1090.pdf">Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts</a>,</li>
@@ -176,6 +175,7 @@ Blockchain is an evolving technology that enables executing transactions and sma
         <li><a href="https://arxiv.org/pdf/1708.01171.pdf">Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing</a>,</li>
        </ul>
       </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>

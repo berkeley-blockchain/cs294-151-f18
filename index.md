@@ -11,10 +11,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://raymondcheng.net/about">Dawn Song</a></td>
-      <td><a href="http://facultybio.haas.berkeley.edu/faculty-list/lablanc-gregory/">Ahmed Kosba</a></td>
-      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Jian Liu</a></td>
-      <td><a href="https://www.law.berkeley.edu/our-faculty/faculty-profiles/adam-sterling/">Yupeng Zhang</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+      <td><a href="http://www.cs.umd.edu/~akosba/">Ahmed Kosba</a></td>
+      <td><a href="">Jian Liu</a></td>
+      <td><a href="http://legacydirs.umiacs.umd.edu/~zhangyp/">Yupeng Zhang</a></td>
     </tr>
     <tr>
       <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>

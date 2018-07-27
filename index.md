@@ -89,7 +89,7 @@ Blockchain is an evolving technology that enables executing transactions and sma
       </td>
       <td>
         </td>
-      <td></td>
+      <td>Team Formation Due 09/10</td>
     </tr>
     <tr>
       <td>09/17</td>
@@ -119,7 +119,7 @@ Blockchain is an evolving technology that enables executing transactions and sma
       </td>
       <td>
       </td> 
-      <td></td>
+      <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>
       <td>10/01</td>
@@ -233,7 +233,7 @@ Men with No Names</a>,</li>
       </td>
       <td>
       </td>
-      <td></td>
+      <td>Project Report Due 11/30</td>
     </tr>
   </tbody>
 </table>
@@ -244,6 +244,13 @@ This is a project oriented class. Each lecture will focus on one of the research
 
 Students will also form project groups and complete a high-impact research project. The final project/deliverable will be a team presentation and a paper/report on the project.
 
+## Grading
+
+<ul>
+  <li>20% class participation</li>
+  <li>20% weekly reading assignment</li>
+  <li>60% project</li>
+</ul>
 
 ## Enrollment information
 

@@ -254,6 +254,7 @@ Students will also form project groups and complete a high-impact research proje
 
 ## Enrollment information
 
+Enrollment is very limited. If you would like to enroll in the class, Please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSc0-A5kOI_ykJOOkT2bfhyG3Ny6qFr4S-odxnuO5mC6UQWn1w/viewform?ts=5b53bd5c)**. Accepted students will be given instructor codes to register for the class. Decisions for admission will be released on a rolling basis. Due to limited space, please apply as soon as possible.
 
 ## Supplemental Reading
 

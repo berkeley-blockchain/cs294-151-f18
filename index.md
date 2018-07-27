@@ -4,17 +4,27 @@
   <thead>
     <tr>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img src="http://www.cs.umd.edu/~akosba/webpage/p_o.png" alt="Ahmed Kosba"></th>
+      <th style="width: 25%;"><img src="" alt="Jian Liu"></th>
+      <th style="width: 25%;"><img src="http://legacydirs.umiacs.umd.edu/~zhangyp/photo.jpeg" alt="Yupeng Zhang"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+      <td><a href="https://raymondcheng.net/about">Dawn Song</a></td>
+      <td><a href="http://facultybio.haas.berkeley.edu/faculty-list/lablanc-gregory/">Ahmed Kosba</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Jian Liu</a></td>
+      <td><a href="https://www.law.berkeley.edu/our-faculty/faculty-profiles/adam-sterling/">Yupeng Zhang</a></td>
     </tr>
     <tr>
       <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
     </tr>
   </tbody>
 </table>
+
 
 ## Teaching Assistant
 

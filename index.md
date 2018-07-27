@@ -39,9 +39,10 @@
 
 ## Piazza and Mailing List
 
+To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please sign up for the [public mailing list](https://groups.google.com/forum/#!forum/berkeley-blockchain) mailing list for future announcements. Some classes will be open to the public and will be announced on this list. You can add yourself to the list by clicking the link and "Join group". Be sure to be signed in to your Google account.
 
 ## Course description
-Blockchain is an evolving technology that enables executing transactions and smart contracts without a central authority, and there are enormous potential applications. Meanwhile, there are also many problems in the existing blockchain techniques. This course is going to cover advanced topics on blockchain and cryptocurrencies. We will discuss recent research papers on scalability, attacks, privacy, alternative approaches for mining and applications of blockchain and smart contracts. Students will be introduced to do research projects about blockchain and cryptocurrencies.
+Blockchain is an evolving technology that enables executing transactions and smart contracts without a central authority, and there are enormous potential applications. Meanwhile, there are also many problems in the existing blockchain techniques. This course is going to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers on scalability, attacks, privacy, alternative approaches for mining and applications of blockchain and smart contracts. Students will be introduced to do research projects about blockchain and cryptocurrencies.
 
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
@@ -248,6 +249,8 @@ Students will also form project groups and complete a high-impact research proje
 
 
 ## Supplemental Reading
+
+[Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
 ## Frequently Asked Questions
 

@@ -5,7 +5,7 @@
     <tr>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
       <th style="width: 25%;"><img src="http://www.cs.umd.edu/~akosba/webpage/p_o.png" alt="Ahmed Kosba"></th>
-      <th style="width: 25%;"><img src="" alt="Jian Liu"></th>
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Jian Liu"></th>
       <th style="width: 25%;"><img src="http://legacydirs.umiacs.umd.edu/~zhangyp/photo.jpeg" alt="Yupeng Zhang"></th>
     </tr>
   </thead>
@@ -13,7 +13,7 @@
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
       <td><a href="http://www.cs.umd.edu/~akosba/">Ahmed Kosba</a></td>
-      <td><a href="">Jian Liu</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~jian.liu/">Jian Liu</a></td>
       <td><a href="http://legacydirs.umiacs.umd.edu/~zhangyp/">Yupeng Zhang</a></td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@
 
 ## Piazza and Mailing List
 
-To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please sign up for the [public mailing list](https://groups.google.com/forum/#!forum/berkeley-blockchain) mailing list for future announcements. Some classes will be open to the public and will be announced on this list. You can add yourself to the list by clicking the link and "Join group". Be sure to be signed in to your Google account.
+To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please sign up for the [public mailing list](https://groups.google.com/forum/#!forum/cs-294-151-s18-all) mailing list for future announcements. Some classes will be open to the public and will be announced on this list. You can add yourself to the list by clicking the link and "Join group". Be sure to be signed in to your Google account.
 
 ## Course description
 Blockchain is an evolving technology that enables executing transactions and smart contracts without a central authority, and there are enormous potential applications. Meanwhile, there are also many problems in the existing blockchain techniques. This course is going to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers on scalability, attacks, privacy, alternative approaches for mining and applications of blockchain and smart contracts. Students will be introduced to do research projects about blockchain and cryptocurrencies.

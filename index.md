@@ -39,7 +39,9 @@
 
 ## Piazza and Mailing List
 
-To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please sign up for the [public mailing list](https://groups.google.com/forum/#!forum/cs-294-151-f18-all) for future announcements. Some classes will be open to the public and will be announced on this list. You can add yourself to the list by clicking the link and "Join group". Be sure to be signed in to your Google account.
+If you are taking the class, please sign up for the [public mailing list](https://groups.google.com/forum/#!forum/cs-294-151-f18-all) for future announcements. You can add yourself to the list by clicking the link and "Join group". Be sure to be signed in to your Google account.
+
+If you do not plan to take the class, but are interested in getting announcements about guest speakers in class, and more generally, blockchain talks at Berkeley, please sign up for the [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-blockchain) for future announcements.
 
 ## Course description
 Blockchain is an evolving technology that enables executing transactions and smart contracts without a central authority, and there are enormous potential applications. Meanwhile, there are also many problems in the existing blockchain techniques. This course is going to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers on scalability, attacks, privacy, alternative approaches for mining and applications of blockchain and smart contracts. Students will be introduced to do research projects about blockchain and cryptocurrencies.
@@ -188,7 +190,7 @@ Students will also form project groups and complete a high-impact research proje
 
 ## Enrollment information
 
-Enrollment is very limited. If you would like to enroll in the class, Please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSc0-A5kOI_ykJOOkT2bfhyG3Ny6qFr4S-odxnuO5mC6UQWn1w/viewform?ts=5b53bd5c)**. Accepted students will be given instructor codes to register for the class. Decisions for admission will be released on a rolling basis. Due to limited space, please apply as soon as possible.
+Enrollment is very limited. If you require an authorization code to enroll in the class, please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSc0-A5kOI_ykJOOkT2bfhyG3Ny6qFr4S-odxnuO5mC6UQWn1w/viewform?ts=5b53bd5c)**. Accepted students will be given instructor codes to register for the class. Decisions for admission will be released on a rolling basis. Due to limited space, please apply as soon as possible.
 
 ## Supplemental Reading
 

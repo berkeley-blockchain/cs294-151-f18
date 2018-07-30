@@ -44,7 +44,7 @@ To receive announcements on information about the course, including distinguishe
 ## Course description
 Blockchain is an evolving technology that enables executing transactions and smart contracts without a central authority, and there are enormous potential applications. Meanwhile, there are also many problems in the existing blockchain techniques. This course is going to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers on scalability, attacks, privacy, alternative approaches for mining and applications of blockchain and smart contracts. Students will be introduced to do research projects about blockchain and cryptocurrencies.
 
-## Syllabus
+<!-- Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -170,7 +170,7 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>Project Report Due 11/30</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 ## Class format and project

@@ -39,12 +39,12 @@
 
 ## Piazza and Mailing List
 
-If you are taking the class, please sign up for the [public mailing list](https://groups.google.com/forum/#!forum/cs-294-151-f18-all) for future announcements. You can add yourself to the list by clicking the link and "Join group". Be sure to be signed in to your Google account.
+If you are taking the class, please sign up for the [course mailing list](https://groups.google.com/forum/#!forum/cs-294-151-f18-all) for future announcements. You can add yourself to the list by clicking the link and "Join group". Be sure to be signed in to your Google account.
 
 If you do not plan to take the class, but are interested in getting announcements about guest speakers in class, and more generally, blockchain talks at Berkeley, please sign up for the [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-blockchain) for future announcements.
 
 ## Course description
-Blockchain is an evolving technology that enables executing transactions and smart contracts without a central authority, and there are enormous potential applications. Meanwhile, there are also many problems in the existing blockchain techniques. This course is going to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers on scalability, attacks, privacy, alternative approaches for mining and applications of blockchain and smart contracts. Students will be introduced to do research projects about blockchain and cryptocurrencies.
+Blockchain has the potential to transform many segments of the industry and the society. In this course, we plan to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers and techniques on scalability, privacy, different consensus mechanisms, attacks and mitigation on blockchain and smart contracts, applications of blockchain and smart contracts, and cryptoeconomics. Students will be introduced to do research projects about blockchain and cryptocurrencies.
 
 <!-- Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
@@ -196,7 +196,6 @@ Enrollment is very limited. If you require an authorization code to enroll in th
 
 [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
-## Frequently Asked Questions
 
 ## Additional Notes
 

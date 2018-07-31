@@ -129,7 +129,7 @@ Blockchain has the potential to transform many segments of the industry and the 
     </tr>
     <tr>
       <td>11/05</td>
-      <td</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>

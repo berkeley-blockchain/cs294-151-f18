@@ -60,43 +60,36 @@ Blockchain has the potential to transform many segments of the industry and the 
     <tr>
       <td>08/27</td>
       <td></td>
-      <td>
-      </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09/03</td>
       <td>No Class, Labor Day</td>
-      <td>      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09/10</td>
       <td></td>
-      <td>
-      </td>
-      <td>
-        </td>
+      <td></td>
+      <td></td>
       <td>Team Formation Due 09/10</td>
     </tr>
     <tr>
       <td>09/17</td>
       <td></td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09/24</td>
       <td></td>
       <td></td>
-      <td>
-      </td> 
+      <td></td> 
       <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>
@@ -109,8 +102,7 @@ Blockchain has the potential to transform many segments of the industry and the 
     <tr>
       <td>10/08</td>
       <td></td>
-      <td>
-      </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -118,10 +110,8 @@ Blockchain has the potential to transform many segments of the industry and the 
       <td>10/15</td>
       <td></td>
       <td></td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>10/22</td>
@@ -147,27 +137,22 @@ Blockchain has the potential to transform many segments of the industry and the 
     <tr>
       <td>11/12</td>
       <td>No Class, Veterans Day</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11/19</td>
       <td></td>
       <td></td>
-      <td>
-      </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11/26</td>
       <td>Project Presentations</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
       <td>Project Report Due 11/30</td>
     </tr>
   </tbody>

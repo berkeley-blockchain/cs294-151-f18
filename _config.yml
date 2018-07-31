@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: "CS294-151: Blockchain and CryptoEconomics"
 description: Fall 2018
-show_downloads: false
-is_project_page: false
+github:
+  show_downloads: false
+  is_project_page: false

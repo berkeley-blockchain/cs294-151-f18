@@ -26,16 +26,15 @@
 </table>
 
 
-## Teaching Assistant
+## Volunteer Teaching Assistant
+
+Tiancheng Xie
 
 ## Lectures
 
 **Time**: Monday 4:00--6:00 pm
 
 **Location**: Soda 310
-
-## Office Hours
-
 
 ## Piazza and Mailing List
 
@@ -46,7 +45,7 @@ If you do not plan to take the class, but are interested in getting announcement
 ## Course description
 Blockchain has the potential to transform many segments of the industry and the society. In this course, we plan to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers and techniques on scalability, privacy, different consensus mechanisms, attacks and mitigation on blockchain and smart contracts, applications of blockchain and smart contracts, and cryptoeconomics. Students will be introduced to do research projects about blockchain and cryptocurrencies.
 
-<!-- Syllabus
+## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -172,7 +171,7 @@ Blockchain has the potential to transform many segments of the industry and the 
       <td>Project Report Due 11/30</td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 
 ## Class format and project

@@ -64,10 +64,10 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>08/27</td>
       <td rowspan="2">Introduction</td>
       <td>
-      Consensus; properties</br>
-      Bitcoin; Ethereum</br>
-      Applications; motivation</br>
-      Logistics</li>
+      Consensus; properties<br>
+      Bitcoin; Ethereum<br>
+      Applications; motivation<br>
+      Logistics
       </td>
       <td></td>
       <td></td>

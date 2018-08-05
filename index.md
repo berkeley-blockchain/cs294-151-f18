@@ -52,7 +52,8 @@ The course is 3-units, and will consist of several research paper readings per w
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>
-      <th style="width: 40%;">Topic</th>
+      <th style="width: 10%;">Section</th>
+      <th style="width: 30%;">Topic</th>
       <th style="width: 55%;">Readings</th>
       <th style="width: 20%;">Talk</th>
       <th style="width: 10%;">Deadlines</th>
@@ -61,7 +62,15 @@ The course is 3-units, and will consist of several research paper readings per w
   <tbody>
     <tr>
       <td>08/27</td>
-      <td></td>
+      <td rowspan="2">Introduction</td>
+      <td>
+      <ul>
+        <li>Consensus; properties</li>
+        <li>Bitcoin; Ethereum</li>
+        <li>Applications; motivation</li>
+        <li>Logistics</li>
+       </ul>
+      </td>
       <td></td>
       <td></td>
       <td></td>
@@ -75,62 +84,82 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>09/10</td>
-      <td></td>
+      <td rowspan="4">Scalability</td>
+      <td>Byzantine fault tolerance (BFT) Concensus</td>
       <td></td>
       <td></td>
       <td>Team Formation Due 09/10</td>
     </tr>
     <tr>
       <td>09/17</td>
-      <td></td>
+      <td>Directed acyclic graph (DAG)</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09/24</td>
-      <td></td>
+      <td>Horizontal scaling:
+      <ul>
+        <li>Omniledger</li>
+        <li>Saber</li>
+        <li>Zilliqa</li>
+       </ul>
+      </td>
       <td></td>
       <td></td> 
       <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>
       <td>10/01</td>
-      <td></td>
+      <td>Proof of stake (POS)</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/08</td>
-      <td></td>
+      <td rowspan="3">Privacy</td>
+      <td>Zero-knowledge proof
+      <ul>
+        <li>Background; compiler</li>
+        <li>Bullet proof</li>
+       </ul>
+      </td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/15</td>
-      <td></td>
+      <td>Secure multi-party computation (MPC)
+      <ul>
+        <li>Background</li>
+        <li>Honeybadger MPC</li>
+       </ul>
+      </td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/22</td>
-      <td></td>
+      <td>Secure enclave: keystone</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/29</td>
-      <td></td>
+      <td rowspan="1">Applications</td>
+      <td>Applications & secure contract programming</td>
       <td></td>
       <td></td>
       <td>Project Progress Report Due 10/29</td>
     </tr>
     <tr>
       <td>11/05</td>
+      <td rowspan="3">CryptoEconomics</td>
       <td></td>
       <td></td>
       <td></td>
@@ -155,7 +184,7 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>Project Presentations</td>
       <td></td>
       <td></td>
-      <td>Final Project Report Due 11/30</td>
+      <td>Project Report Due 11/30</td>
     </tr>
   </tbody>
 </table>

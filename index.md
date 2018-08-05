@@ -98,11 +98,7 @@ The course is 3-units, and will consist of several research paper readings per w
     <tr>
       <td>09/24</td>
       <td>Horizontal scaling:
-      <ul>
-        <li>Omniledger</li>
-        <li>Saber</li>
-        <li>Zilliqa</li>
-       </ul>
+      
       </td>
       <td></td>
       <td></td> 
@@ -119,10 +115,7 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>10/08</td>
       <td rowspan="3">Privacy</td>
       <td>Zero-knowledge proof
-      <ul>
-        <li>Background; compiler</li>
-        <li>Bullet proof</li>
-       </ul>
+   
       </td>
       <td></td>
       <td></td>
@@ -131,10 +124,7 @@ The course is 3-units, and will consist of several research paper readings per w
     <tr>
       <td>10/15</td>
       <td>Secure multi-party computation (MPC)
-      <ul>
-        <li>Background</li>
-        <li>Honeybadger MPC</li>
-       </ul>
+      
       </td>
       <td></td>
       <td></td>
@@ -142,7 +132,7 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>10/22</td>
-      <td>Secure enclave: keystone</td>
+      <td>Secure hardware</td>
       <td></td>
       <td></td>
       <td></td>

@@ -183,6 +183,7 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>11/26</td>
       <td>Project Presentations</td>
       <td></td>
+      <td></td>
       <td></td>
       <td>Project Report Due 11/30</td>
     </tr>

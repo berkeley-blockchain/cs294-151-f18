@@ -51,9 +51,9 @@ The course is 3-units, and will consist of several research paper readings per w
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 5%;">Date</th>
-      <th style="width: 10%;">Section</th>
-      <th style="width: 30%;">Topic</th>
+      <th style="width: 4%;">Date</th>
+      <th style="width: 8%;">Section</th>
+      <th style="width: 33%;">Topic</th>
       <th style="width: 55%;">Readings</th>
       <th style="width: 20%;">Talk</th>
       <th style="width: 10%;">Deadlines</th>

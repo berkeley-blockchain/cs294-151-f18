@@ -98,7 +98,6 @@ The course is 3-units, and will consist of several research paper readings per w
     <tr>
       <td>09/24</td>
       <td>Horizontal scaling:
-      
       </td>
       <td></td>
       <td></td> 
@@ -115,7 +114,6 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>10/08</td>
       <td rowspan="3">Privacy</td>
       <td>Zero-knowledge proof
-   
       </td>
       <td></td>
       <td></td>
@@ -123,8 +121,7 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>10/15</td>
-      <td>Secure multi-party computation (MPC)
-      
+      <td>Secure multi-party computation (MPC)  
       </td>
       <td></td>
       <td></td>

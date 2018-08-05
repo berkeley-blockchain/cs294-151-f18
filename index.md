@@ -97,7 +97,7 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>09/24</td>
-      <td>Horizontal scaling:
+      <td>Horizontal scaling
       </td>
       <td></td>
       <td></td> 

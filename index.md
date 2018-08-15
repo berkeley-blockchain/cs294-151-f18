@@ -119,7 +119,13 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>10/15</td>
-      <td>Secure multi-party computation (MPC)  
+      <td>Secure multi-party computation (SMC) 
+        <ul>
+          <li> Background and definitions
+          <li> Existing contrustions: garbled circuit and GMW protocol
+          <li> Privacy-preserving blockchain using SMC
+          <li> Achieving fairness in SMC using blockchain
+        </ul>
       </td>
       <td></td>
       <td></td>

@@ -111,7 +111,7 @@ The course is 3-units, and will consist of several research paper readings per w
     <tr>
       <td>10/08</td>
       <td rowspan="3">Privacy</td>
-      <td>Zero-knowledge proof
+      <td>Zero-knowledge proofs in practice
       </td>
       <td></td>
       <td></td>

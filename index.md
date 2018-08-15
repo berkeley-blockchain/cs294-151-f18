@@ -96,6 +96,12 @@ The course is 3-units, and will consist of several research paper readings per w
     <tr>
       <td>09/24</td>
       <td>Horizontal scaling
+        <ul>
+          <li>Revisiting scalability</li>
+          <li>Challenges for horizontal scaling</li>
+          <li>Blockchain sharding</li>
+          <li>Asynchronous execution</li>
+        </ul>
       </td>
       <td></td>
       <td></td> 

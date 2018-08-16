@@ -118,6 +118,11 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>10/08</td>
       <td rowspan="3">Privacy</td>
       <td>Zero-knowledge proofs in practice
+         <ul>
+          <li>Privacy in decentralized cryptocurrencies</li>
+          <li>zk-SNARKs (constructions, tools and applications in cryptocurrency)</li>
+          <li>New ZK proof constructions</li>
+        </ul>
       </td>
       <td></td>
       <td></td>

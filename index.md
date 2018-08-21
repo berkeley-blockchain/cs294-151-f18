@@ -72,7 +72,12 @@ The course is 3-units, and will consist of several research paper readings per w
           <li>Bitcoin formalism</li>
         </ul>
       </td>
-      <td></td>
+      <td>
+         <ul>
+          <li><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a></li>
+          <li><a href="https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf">Narayanan et al. (first two chapters)</a></li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>

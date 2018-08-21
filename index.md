@@ -66,12 +66,12 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>
       Introduction and 
       Logistics
-      </td>
          <ul>
           <li>History and overview of blockchains</li>
           <li>Nakamoto consensus and Bitcoin</li>
           <li>Bitcoin formalism</li>
         </ul>
+      </td>
       <td></td>
       <td></td>
       <td></td>

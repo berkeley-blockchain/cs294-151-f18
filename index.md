@@ -26,10 +26,6 @@
 </table>
 
 
-## Volunteer Teaching Assistant
-
-Tiancheng Xie
-
 ## Invited Lecturer
 
 <table style="table-layout: fixed; font-size: 88%;">
@@ -47,6 +43,11 @@ Tiancheng Xie
     </tr>
   </tbody>
 </table>
+
+## Volunteer Teaching Assistant
+
+Tiancheng Xie
+
 ## Lectures
 
 **Time**: Monday 4:00--6:00 pm

@@ -30,6 +30,23 @@
 
 Tiancheng Xie
 
+## Invited Lecturer
+
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 100%;"><img src="http://www.cs.umd.edu/~kartik/profile.jpg" alt="Kartik Nayak"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://www.cs.umd.edu/~kartik/">Kartik Nayak</a></td>
+    </tr>
+    <tr>
+      <td>Ph.D Candidate, <a href="http://www.cs.umd.edu/">CS</a></td>
+    </tr>
+  </tbody>
+</table>
 ## Lectures
 
 **Time**: Monday 4:00--6:00 pm

@@ -43,7 +43,7 @@ Tiancheng Xie
       <td><a href="http://www.cs.umd.edu/~kartik/">Kartik Nayak</a></td>
     </tr>
     <tr>
-      <td>Ph.D Candidate, <a href="http://www.cs.umd.edu/">CS</a></td>
+      <td>Ph.D Candidate, <a href="http://www.cs.umd.edu/">UMD CS</a></td>
     </tr>
   </tbody>
 </table>

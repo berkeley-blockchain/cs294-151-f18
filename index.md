@@ -77,7 +77,7 @@ The course is 3-units, and will consist of several research paper readings per w
           <li><a href="https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf">Narayanan et al. (first two chapters)</a></li>
         </ul>
       </td>
-      <td></td>
+      <td><a href="http://www.cs.umd.edu/~kartik/">Kartik Nayak</a></td>
       <td></td>
     </tr>
     <tr>

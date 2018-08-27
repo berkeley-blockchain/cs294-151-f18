@@ -121,7 +121,7 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>Non-PoW Consensus Approaches
         <ul>
           <li>PoS</li>
-          <li>Verifiable Delayed functions (constructions, tools and applications in cryptocurrency)</li>
+          <li>Verifiable Delayed functions</li>
           <li>etc..</li>
         </ul>
       </td>

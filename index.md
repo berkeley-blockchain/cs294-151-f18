@@ -118,7 +118,13 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>10/01</td>
-      <td>Proof of stake (POS)</td>
+      <td>Non-PoW Consensus Approaches
+        <ul>
+          <li>PoS</li>
+          <li>Verifiable Delayed functions (constructions, tools and applications in cryptocurrency)</li>
+          <li>etc..</li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
       <td></td>

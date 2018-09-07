@@ -49,7 +49,7 @@ The course is 3-units, and will consist of several research paper readings per w
 ## Piazza
 
 Course announcements will be announced through Piazza. If you are in the class, [sign up on Piazza](
-piazza.com/berkeley/fall2018/cs294151).
+https://piazza.com/berkeley/fall2018/cs294151).
 
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">

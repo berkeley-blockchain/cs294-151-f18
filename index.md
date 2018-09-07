@@ -49,7 +49,7 @@ Blockchain has the potential to transform many segments of the industry and soci
 
 The course is 3-units, and will consist of several research paper readings per week, in-class discussions of the papers, and a large course project per project group.
 
-<p>Course intro <a href="https://drive.google.com/open?id=1dEDzWqS47trS9IMzw4xE5cFHc69AJGaP">slides</a>.</p>
+<p>Course intro <a href="https://drive.google.com/open?id=1Jc97zAUMt3Yn_tt9f738TswBIiY29Igg">slides</a>.</p>
 
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">

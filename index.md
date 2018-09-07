@@ -46,6 +46,11 @@ Blockchain has the potential to transform many segments of the industry and soci
 
 The course is 3-units, and will consist of several research paper readings per week, in-class discussions of the papers, and a large course project per project group.
 
+## Piazza
+
+Course announcements will be announced through Piazza. If you are in the class, [sign up on Piazza](
+piazza.com/berkeley/fall2018/cs294151).
+
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>

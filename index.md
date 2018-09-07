@@ -41,13 +41,15 @@ If you are taking the class, please sign up for the [course mailing list](https:
 
 If you do not plan to take the class, but are interested in getting announcements about guest speakers in class, and more generally, blockchain talks at Berkeley, please sign up for the [talk announcement mailing list](https://groups.google.com/forum/#!forum/berkeley-blockchain) for future announcements.
 
-Course announcements will be announced through Piazza. If you are in the class, [sign up on Piazza](
+Course announcements will be announced through Piazza. If you are enrolled in the class, [sign up on Piazza](
 https://piazza.com/berkeley/fall2018/cs294151).
 
 ## Course description
 Blockchain has the potential to transform many segments of the industry and society. In this course, we plan to cover advanced topics on blockchain, smart contracts, and cryptoeconomics. We will discuss recent research papers and techniques on scalability, privacy, different consensus mechanisms, attacks on blockchain and smart contracts and mitigation against them, applications of blockchain and smart contracts, and cryptoeconomics. 
 
 The course is 3-units, and will consist of several research paper readings per week, in-class discussions of the papers, and a large course project per project group.
+
+<p>Course intro <a href="https://drive.google.com/open?id=1dEDzWqS47trS9IMzw4xE5cFHc69AJGaP">slides</a>.</p>
 
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">

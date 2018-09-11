@@ -98,7 +98,8 @@ The course is 3-units, and will consist of several research paper readings per w
       <td rowspan="4">Scalability</td>
       <td>Byzantine fault tolerance (BFT) Concensus</td>
       <td></td>
-      <td><a href="https://research.vmware.com/researchers/dahlia-malkhi">Dahlia Malkhi</a></td>
+      <td><a href="https://research.vmware.com/researchers/dahlia-malkhi">Dahlia Malkhi</a>
+      <a href="https://drive.google.com/open?id=1jBkKkLgaAH2z_JdRNHVusTN75RXqPF-a">(Slides)</a></td>
       <td>Team Formation Due 09/10</td>
     </tr>
     <tr>

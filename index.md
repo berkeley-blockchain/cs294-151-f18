@@ -104,9 +104,17 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>09/17</td>
-      <td>Directed acyclic graph (DAG)</td>
-      <td></td>
-      <td></td>
+      <td>Block DAG Protocols</td>
+      <td>
+         <ul>
+          <li><a href="https://eprint.iacr.org/2013/881.pdf">Background Reading: GHOST</a></li>
+          <li><a href="https://arxiv.org/abs/1805.03870">Conflux</a></li>
+          <li><a href="https://fc15.ifca.ai/preproceedings/paper_101.pdf">Inclusive Blockchain</a></li>
+          <li><a href="https://eprint.iacr.org/2016/1159.pdf">SPECTRE</a></li>
+           <li><a href="https://eprint.iacr.org/2018/104.pdf">PHANTOM</a></li>
+        </ul>
+      </td>
+      <td> <a href="http://www.cs.toronto.edu/~fanl/">Fan Long</a></td>
       <td></td>
     </tr>
     <tr>

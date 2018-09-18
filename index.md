@@ -114,7 +114,8 @@ The course is 3-units, and will consist of several research paper readings per w
            <li><a href="https://eprint.iacr.org/2018/104.pdf">PHANTOM</a></li>
         </ul>
       </td>
-      <td> <a href="http://www.cs.toronto.edu/~fanl/">Fan Long</a></td>
+      <td> <a href="http://www.cs.toronto.edu/~fanl/">Fan Long</a>
+      <a href="https://drive.google.com/open?id=17DNyCCcXf-OIvhNGX8NHZhMKJtM94qcZ">(Slides)</a></td>
       <td></td>
     </tr>
     <tr>

@@ -128,7 +128,12 @@ The course is 3-units, and will consist of several research paper readings per w
         </ul>
       </td>
       <td></td>
-      <td></td> 
+        <ul>
+          <li><a href="https://docs.zilliqa.com/whitepaper.pdf">ZILLIQA</a></li>
+          <li><a href="https://eprint.iacr.org/2017/406.pdf">OmniLedger</a></li>        
+          <li><a href="https://arxiv.org/abs/1708.03778">Chainspace</a></li>
+        </ul>
+      <td>Jian Liu</td> 
       <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>

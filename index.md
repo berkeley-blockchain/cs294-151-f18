@@ -136,6 +136,7 @@ The course is 3-units, and will consist of several research paper readings per w
         </ul>
       </td>
       <td>Jian Liu</td> 
+      <a href="https://drive.google.com/file/d/1mFGzMMVcNk-QJUAqqNzhUOvI5XaxlTSS/view?usp=sharing">(Slides)</a></td>
       <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>

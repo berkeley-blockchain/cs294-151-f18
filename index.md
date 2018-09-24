@@ -135,7 +135,7 @@ The course is 3-units, and will consist of several research paper readings per w
           <li><a href="https://arxiv.org/abs/1708.03778">Chainspace</a></li>
         </ul>
       </td>
-      <td>Jian Liu</td> 
+      <td>Jian Liu
       <a href="https://drive.google.com/file/d/1mFGzMMVcNk-QJUAqqNzhUOvI5XaxlTSS/view?usp=sharing">(Slides)</a></td>
       <td>Project Proposals Due 09/27</td>
     </tr>

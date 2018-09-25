@@ -137,7 +137,7 @@ The course is 3-units, and will consist of several research paper readings per w
       </td>
       <td>Jian Liu
       <a href="https://drive.google.com/file/d/1mFGzMMVcNk-QJUAqqNzhUOvI5XaxlTSS/view?usp=sharing">(Slides)</a></td>
-      <td>Project Proposals Due 09/27</td>
+      <td>Project Proposals Due 09/30</td>
     </tr>
     <tr>
       <td>10/01</td>
@@ -148,8 +148,16 @@ The course is 3-units, and will consist of several research paper readings per w
           <li>etc</li>
         </ul>
       </td>
-      <td></td>
-      <td></td>
+      <td><ul>
+          <li>Verifiable Delay Functions <a href="https://eprint.iacr.org/2018/601.pdf">1</a>, <a href="https://eprint.iacr.org/2018/627.pdf">2</a>, <a href="https://eprint.iacr.org/2018/623.pdf">3</a>, <a href="https://eprint.iacr.org/2018/712.pdf">4</a> </li>
+          <li><a href="https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf">Algorand</a></li>        
+          <li><a href="https://eprint.iacr.org/2016/919.pdf">Snow White</a></li>
+          <li><a href="https://eprint.iacr.org/2016/889.pdf">Ouroboros</a></li>
+        </ul>
+      </td>
+      <td>
+      <a href="https://crypto.stanford.edu/~buenz/">Benedikt Bünz</a>
+      </td>
       <td></td>
     </tr>
     <tr>

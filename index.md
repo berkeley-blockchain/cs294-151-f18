@@ -157,7 +157,7 @@ The course is 3-units, and will consist of several research paper readings per w
       </td>
       <td>
       <a href="https://crypto.stanford.edu/~buenz/">Benedikt Bünz</a>
-      </td>
+      <a href="https://drive.google.com/open?id=1_GpWaxUwChKR9Owq-xDqe5z6RvCfWzW4">(Slides)</a></td>
       <td></td>
     </tr>
     <tr>

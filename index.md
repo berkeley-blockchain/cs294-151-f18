@@ -170,7 +170,12 @@ The course is 3-units, and will consist of several research paper readings per w
           <li>New ZK proof constructions</li>
         </ul>
       </td>
-      <td></td>
+      <td>
+          <li><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">ZeroCash</a></li>
+          <li><a href="https://eprint.iacr.org/2017/1066.pdf">BulletProofs</a></li>
+        <li><a href="https://eprint.iacr.org/2018/046.pdf">zk-STARKs</a></li>
+          Background Readings posted on Piazza
+      </td>
       <td></td>
       <td></td>
     </tr>

@@ -184,8 +184,15 @@ The course is 3-units, and will consist of several research paper readings per w
           <li>Achieving fairness in SMC using blockchain</li>
         </ul>
       </td>
-      <td></td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=GjhvJxelIVQ">Yao's Garbled Circuit</a></li>
+          <li><a href="https://www.youtube.com/watch?v=4YwvZaA9IEg">GMW protocol</a></li>       
+          <li><a href="https://kodu.ut.ee/~swen/courses/crypto-ii/2008/cleve1986.pdf"> Limits on the Security of Coin Flips When Half the Processors are Faulty </a></li>
+          <li><a href="https://eprint.iacr.org/2014/129.pdf">How to Use Bitcoin to Design Fair Protocols</a></li>
+        </ul>
+      </td>
+      <td>Yupeng Zhang</td>
       <td></td>
     </tr>
     <tr>

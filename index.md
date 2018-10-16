@@ -200,7 +200,8 @@ The course is 3-units, and will consist of several research paper readings per w
           <li><a href="https://eprint.iacr.org/2014/129.pdf">How to Use Bitcoin to Design Fair Protocols</a></li>
         </ul>
       </td>
-      <td>Yupeng Zhang</td>
+      <td>Yupeng Zhang
+        <a href="https://drive.google.com/open?id=1ZcsPtRPt8UETYgwso6AyEDP2t-RvH7ce">(Slides)</a></td></td>
       <td></td>
     </tr>
     <tr>

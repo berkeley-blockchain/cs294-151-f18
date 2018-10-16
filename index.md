@@ -201,7 +201,7 @@ The course is 3-units, and will consist of several research paper readings per w
         </ul>
       </td>
       <td>Yupeng Zhang
-        <a href="https://drive.google.com/open?id=1ZcsPtRPt8UETYgwso6AyEDP2t-RvH7ce">(Slides)</a></td></td>
+        <a href="https://drive.google.com/drive/u/0/folders/18UuPhStF_J_kd7zbVgezNXR3AeE3pOrB">(Slides)</a></td></td>
       <td></td>
     </tr>
     <tr>

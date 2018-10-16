@@ -207,11 +207,16 @@ The course is 3-units, and will consist of several research paper readings per w
     <tr>
       <td>10/22</td>
       <td>Secure hardware</td>
-      <td></td>
       <td>
-         <ul>
+        <ul>
           <li><a href="https://eprint.iacr.org/2016/086.pdf">SGX Explained (Sections 1 and 4)</a></li>
           <li><a href="https://arxiv.org/abs/1804.05141">Ekiden</a></li>       
+        </ul>
+     </td>
+      <td>
+        <ul>
+          <li><a href="https://people.eecs.berkeley.edu/~dkohlbre/">David Kohlbrenner</a></li>
+          <li>Dawn Song</li>       
         </ul>
       </td>
       <td></td>

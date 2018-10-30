@@ -226,8 +226,10 @@ The course is 3-units, and will consist of several research paper readings per w
       <td rowspan="1">Applications</td>
       <td>Applications & secure contract programming</td>
       <td>
+         <ul>
           <li><a href="https://eprint.iacr.org/2017/1090.pdf">Hydra</a></li>
           <li><a href="https://eprint.iacr.org/2016/1007.pdf">Survey of attacks on smart contracts</a></li>
+         </ul>
       </td>
       <td>Ahmed Kosba</td>
       <td>Project Progress Report Due 10/29</td>

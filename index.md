@@ -238,7 +238,11 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>11/05</td>
       <td rowspan="3">CryptoEconomics</td>
       <td></td>
-      <td></td>
+      <td>
+        <ul>
+          <li><a href="http://christophertonetti.com/files/papers/JonesTonetti_DataNonrivalry.pdf">Nonrivalry and the Economics of Data</a></li>
+        </ul>
+      </td>
       <td></td>
       <td></td>
     </tr>

@@ -231,7 +231,9 @@ The course is 3-units, and will consist of several research paper readings per w
           <li><a href="https://eprint.iacr.org/2016/1007.pdf">Survey of attacks on smart contracts</a></li>
          </ul>
       </td>
-      <td>Ahmed Kosba</td>
+      <td>Ahmed Kosba
+      <a href="https://drive.google.com/open?id=1HuZtXxocSAm9VZ1UAfLENXeS7xAo4v1n">(Slides)</a>   
+      </td>
       <td>Project Progress Report Due 10/29</td>
     </tr>
     <tr>

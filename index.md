@@ -248,7 +248,7 @@ The course is 3-units, and will consist of several research paper readings per w
       <td>
          <ul>
           <li><a href="https://www.linkedin.com/in/laiqahmad/">Laiq Ahmad</a></li>
-           <li><a href="https://web.stanford.edu/~chadj/">Charles I. Jones /a></li>
+           <li><a href="https://web.stanford.edu/~chadj/">Charles I. Jones</a></li>
         </ul>
       </td>
       <td></td>

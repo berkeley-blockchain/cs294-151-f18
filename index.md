@@ -245,7 +245,12 @@ The course is 3-units, and will consist of several research paper readings per w
           <li><a href="http://christophertonetti.com/files/papers/JonesTonetti_DataNonrivalry.pdf">Nonrivalry and the Economics of Data</a></li>
         </ul>
       </td>
-      <td></td>
+      <td>
+         <ul>
+          <li><a href="https://www.linkedin.com/in/laiqahmad/">Laiq Ahmad</a></li>
+           <li><a href="https://web.stanford.edu/~chadj/">Charles I. Jones /a></li>
+        </ul>
+      </td>
       <td></td>
     </tr>
     <tr>

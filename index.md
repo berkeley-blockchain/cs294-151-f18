@@ -263,9 +263,14 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>11/19</td>
+      <td>Stablecoins</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>
+         <ul>
+          <li>Nevin Freeman (Reserve) </li>
+          <li>Niklas Kunkel (MakerDAO) </li>
+        </ul>
+  </td>
       <td></td>
     </tr>
     <tr>

@@ -263,21 +263,26 @@ The course is 3-units, and will consist of several research paper readings per w
     </tr>
     <tr>
       <td>11/19</td>
-      <td>Stablecoins</td>
+      <td><a href="https://news.berkeley.edu/2018/11/18/classes-canceled-monday-tuesday/">Cancelled</a></td>
       <td></td>
       <td>
-         <ul>
-          <li>Nevin Freeman (Reserve) </li>
-          <li>Niklas Kunkel (MakerDAO) </li>
-        </ul>
   </td>
       <td></td>
     </tr>
     <tr>
       <td>11/26</td>
-      <td>Project Presentations</td>
+      <td>
+         <ul>
+          <li>Talks on Stablecoins </li>
+          <li>Project Presentations </li>
+        </ul>
+        </td>
       <td></td>
-      <td></td>
+      <td> 
+        <ul>
+          <li>Nevin Freeman (Reserve) </li>
+          <li>Niklas Kunkel (MakerDAO) </li>
+        </ul></td>
       <td></td>
       <td>Project Report Due 11/30</td>
     </tr>

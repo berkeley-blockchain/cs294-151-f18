@@ -284,7 +284,7 @@ The course is 3-units, and will consist of several research paper readings per w
           <li>Niklas Kunkel (MakerDAO) <a href="https://docs.google.com/presentation/d/1Ew54UiN1WyNSiGxYWpILwWBWmtdTDPySTA1wQwTh_5E/edit?usp=sharing">[Slides]</a> </li>
         </ul></td>
       <td></td>
-      <td>Project Report Due 11/30</td>
+      <td>Project Report Due 12/05</td>
     </tr>
   </tbody>
 </table>
